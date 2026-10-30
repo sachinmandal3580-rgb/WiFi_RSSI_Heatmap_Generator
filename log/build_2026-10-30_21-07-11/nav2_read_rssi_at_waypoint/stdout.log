@@ -1,0 +1,52 @@
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found rclcpp: 28.1.18 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclcpp_action: 28.1.18 (/opt/ros/jazzy/share/rclcpp_action/cmake)
+-- Found rclcpp_lifecycle: 28.1.18 (/opt/ros/jazzy/share/rclcpp_lifecycle/cmake)
+-- Found nav2_util: 1.3.11 (/opt/ros/jazzy/share/nav2_util/cmake)
+-- Found eigen3_cmake_module: 0.3.0 (/opt/ros/jazzy/share/eigen3_cmake_module/cmake)
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found nav2_core: 1.3.13 (/opt/ros/jazzy/share/nav2_core/cmake)
+-- Found rosbot_interfaces: 1.0.0 (/home/sachin/rssi/install/rosbot_interfaces/share/rosbot_interfaces/cmake)
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/sachin/rssi/build/nav2_read_rssi_at_waypoint
+[ 50%] [32mBuilding CXX object CMakeFiles/nav2_read_rssi_at_waypoint.dir/src/read_rssi_at_waypoint.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libnav2_read_rssi_at_waypoint.so[0m
+[100%] Built target nav2_read_rssi_at_waypoint
+-- Install configuration: ""
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/nav2_read_rssi_at_waypoint.xml
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/lib/libnav2_read_rssi_at_waypoint.so
+-- Set non-toolchain portion of runtime path of "/home/sachin/rssi/install/nav2_read_rssi_at_waypoint/lib/libnav2_read_rssi_at_waypoint.so" to ""
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/include/
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/include//nav2_read_rssi_at_waypoint
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/include//nav2_read_rssi_at_waypoint/read_rssi_at_waypoint.hpp
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/include//nav2_read_rssi_at_waypoint/simulated_rssi.hpp
+-- Up-to-date: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/nav2_read_rssi_at_waypoint.xml
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/environment/library_path.sh
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/environment/library_path.dsv
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/ament_index/resource_index/package_run_dependencies/nav2_read_rssi_at_waypoint
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/ament_index/resource_index/parent_prefix_path/nav2_read_rssi_at_waypoint
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/environment/ament_prefix_path.sh
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/environment/ament_prefix_path.dsv
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/environment/path.sh
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/environment/path.dsv
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/local_setup.bash
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/local_setup.sh
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/local_setup.zsh
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/local_setup.dsv
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/package.dsv
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/ament_index/resource_index/packages/nav2_read_rssi_at_waypoint
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/ament_index/resource_index/nav2_waypoint_follower__pluginlib__plugin/nav2_read_rssi_at_waypoint
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/cmake/nav2_read_rssi_at_waypointConfig.cmake
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/cmake/nav2_read_rssi_at_waypointConfig-version.cmake
+-- Installing: /home/sachin/rssi/install/nav2_read_rssi_at_waypoint/share/nav2_read_rssi_at_waypoint/package.xml
